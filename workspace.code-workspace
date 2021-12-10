@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "Arduino Blink Test",
+			"path": "Projects\\Arduino Blink Test"
 		}
 	],
 	"settings": {}
