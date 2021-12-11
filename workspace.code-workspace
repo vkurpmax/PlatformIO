@@ -11,6 +11,9 @@
 		{
 			"name": "Arduino Function Blink",
 			"path": "Projects\\Arduino Function Blink"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {}
