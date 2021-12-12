@@ -6,6 +6,10 @@
 		{
 			"name": "coders indonesia",
 			"path": "Mechatronics\\Learning Path\\NodeMCU ESP8266\\coders indonesia"
+		},
+		{
+			"name": "Web_Server_01",
+			"path": "Mechatronics\\Learning Path\\NodeMCU ESP8266\\Projects\\AT-MO Production\\Web_Server_01"
 		}
 	],
 	"settings": {}
