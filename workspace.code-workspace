@@ -1,18 +1,6 @@
 {
 	"folders": [
 		{
-			"name": "Arduino Blink Test",
-			"path": "Projects\\Arduino Blink Test"
-		},
-		{
-			"name": "ESP32 Blink Test",
-			"path": "Projects\\ESP32 Blink Test"
-		},
-		{
-			"name": "Arduino Function Blink",
-			"path": "Projects\\Arduino Function Blink"
-		},
-		{
 			"path": "."
 		},
 		{
