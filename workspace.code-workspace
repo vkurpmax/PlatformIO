@@ -10,6 +10,14 @@
 		{
 			"name": "Web_Server_01",
 			"path": "Mechatronics\\Learning Path\\NodeMCU ESP8266\\Projects\\AT-MO Production\\Web_Server_01"
+		},
+		{
+			"name": "Conveyor_07",
+			"path": "Mechatronics\\Mechatronics Day\\Conveyor\\Conveyor_07"
+		},
+		{
+			"name": "Conveyor_08",
+			"path": "Mechatronics\\Mechatronics Day\\Conveyor\\Conveyor_08"
 		}
 	],
 	"settings": {}
