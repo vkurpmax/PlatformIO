@@ -20,5 +20,21 @@
 			"path": "Mechatronics\\Mechatronics Day\\Conveyor\\Conveyor_08"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"string_view": "cpp",
+			"ranges": "cpp"
+		}
+	}
 }
